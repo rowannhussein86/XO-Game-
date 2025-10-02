@@ -12,7 +12,7 @@ A simple Tic-Tac-Toe (XO) game built using Python and Tkinter, where you play ag
 
 ## Screenshots
 
-![Game Screenshot](images/screenshot.png) 
+![Game Screenshot](images/Screenshot1.png) 
 
 ## Installation
 
