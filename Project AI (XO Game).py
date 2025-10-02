@@ -162,5 +162,3 @@ update_timer()
 
 # Start GUI
 root.mainloop()
-
-print({3,5,2,5,8,2,5}) # 3:0 ,5:0,2:0, this a dicionary with  key must be a key and value
