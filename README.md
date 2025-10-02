@@ -28,6 +28,6 @@ A simple Tic-Tac-Toe (XO) game built using Python and Tkinter, where you play ag
 
 ## Technologies Used
 
-Python 3
-Tkinter for GUI
-Minimax algorithm for AI logic
+- Python 3
+- Tkinter for GUI
+- Minimax algorithm for AI logic
