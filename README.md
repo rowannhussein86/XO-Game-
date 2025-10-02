@@ -24,3 +24,10 @@ A simple Tic-Tac-Toe (XO) game built using Python and Tkinter, where you play ag
 2. Clone the repository:
    ```bash
    git clone https://github.com/your-username/xo-game.git
+
+
+## Technologies Used
+
+Python 3
+Tkinter for GUI
+Minimax algorithm for AI logic
